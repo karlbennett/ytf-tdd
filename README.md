@@ -1,3 +1,3 @@
 # YTF-TDD
 
-A presentation showing WHY you should do TDD.
+A presentation showing WHY we should do TDD.
